@@ -1,0 +1,9 @@
+.carousel {
+  height: 500px;
+  margin-bottom: 60px;
+  background-color: #8ACAB8;
+}
+.carousel-inner {
+  padding: 0 20% 0 20%;
+  color: #fff;
+}
